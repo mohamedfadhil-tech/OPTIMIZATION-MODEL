@@ -79,6 +79,8 @@ Maximize total profit while staying within resource constraints.
 
 #The output for above program is:
 
+![Image](https://github.com/user-attachments/assets/dd96e963-141a-412f-84e4-9c54fdda3ac9)
+
 
 📦 Requirements
 
