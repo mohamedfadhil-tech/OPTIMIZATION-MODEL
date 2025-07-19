@@ -3,6 +3,19 @@
 
 ## 📌 Task Description
 
+## Internship Credentials
+*Company* : CodTech IT Solutions
+
+*Name* : Mohamed Fadhil U.F
+
+*Intern ID* : CITSOD822
+
+*Domain* : Data Science
+
+*Duration* : 4 weeks
+
+*mentor*   :neela santhosh
+
 This project solves a simple **business optimization problem** using Python, as part of Task 4 of the CODTECH Data Science Internship.
 
 We aim to **maximize profit** by deciding how many chairs and tables to produce, based on **resource constraints** like wood and labor. This solution is compatible with **Programiz** and similar online compilers that do **not support external libraries**.
@@ -64,6 +77,7 @@ Maximize total profit while staying within resource constraints.
 
 ✅ Fulfills Task 4 requirement without using external libraries
 
+#The output for above program is:
 
 
 📦 Requirements
@@ -75,22 +89,11 @@ No need to install any packages
 Compatible with: Programiz, OnlineGDB, and other simple compilers
 
 
-📁 Folder Structure
+Done By:
 
-task4_optimization/
-├── optimization_task4.py
-└── README.md
+Mohamed Fadhil U.F
 
+Data Science Intern
 
-📧 Contact
-
-For any issues or doubts, refer to internship instructions or contact your project coordinator.
-
-
-🏁 Done!
-
-You're now ready to submit Task 4 ✅
-
-
-Let me know if you'd like the README customized for the `pulp` version instead.
+CodTech IT Solutions
 
